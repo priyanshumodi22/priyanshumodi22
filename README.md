@@ -30,7 +30,7 @@
 <a href="https://github.com/priyanshumodi22">
 ![sambitraze's github stats](https://github-readme-stats.vercel.app/api?username=sambitraze&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sambitraze&theme=tokyonight)](https://github.com/sambitraze/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumodi22&theme=tokyonight)](https://github.com/priyanshumodi22/github-readme-stats)
 
 <br/>
 
