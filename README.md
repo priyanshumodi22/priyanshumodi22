@@ -26,6 +26,7 @@
 
 <a href="https://github.com/priyanshumodi22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshumodi22&theme=buefy&show_icons=true" />
+  ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=priyanshumodi22&show_icons=true&theme=dark)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumodi22&theme=buefy&layout=compact" />
 </a>
 
