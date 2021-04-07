@@ -28,8 +28,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshumodi22" alt="profile vist counter" /> </p>  
 <a href="https://github.com/priyanshumodi22">
-![sambitraze's github stats](https://github-readme-stats.vercel.app/api?username=sambitraze&count_private=true&show_icons=true&theme=tokyonight)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshumodi22&count_private=true&show_icons=true&theme=tokyonight" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumodi22&theme=tokyonight)](https://github.com/priyanshumodi22/github-readme-stats)
 
 <br/>
