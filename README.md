@@ -1,8 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priyanshu Modi!](https://kunal-kushwaha.github.io) 
 <h3 align="center">An undergraduate student, tech enthusiast and  learner</h3>
 
-## 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
@@ -11,8 +10,7 @@
 - 🌱 &nbsp; Learning more about Web development, Systems Design and Artificial       Intelligence.
 - ✍️ &nbsp; Solving complex and challenging problems.
 
-##
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
