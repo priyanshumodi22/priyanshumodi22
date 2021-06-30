@@ -33,7 +33,7 @@
 
 
 ## What Am I Current Doing
- * Currently working on 🔭 polishing my skills in **Data Structures & Algorithms** as well as learning side by side **Web development.** 
+ * Currently working on 🔭 polishing my skills in **Data Structures & Algorithms** as well as learning **Web development** side by side. 
  * Getting Started with ReactJS !!
 
 <br/>
