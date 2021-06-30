@@ -11,6 +11,7 @@
 - 🌱 &nbsp; Learning more about Web development, Systems Design and Artificial       Intelligence.
 - ✍️ &nbsp; Solving complex and challenging problems.
 
+##
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
