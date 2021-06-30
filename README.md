@@ -33,6 +33,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumodi22&theme=tokyonight)](https://github.com/priyanshumodi22/github-readme-stats)
 
+[![Priyanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=priyanshumodi22&theme=github)](https://github.com/priyanshumodi22/github-readme-activity-graph)
+
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
