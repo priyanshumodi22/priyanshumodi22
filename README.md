@@ -28,11 +28,12 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
+
 ## What Am I Current Doing
  * Currently working on 🔭 polishing my skills in **Data Structures & Algorithms** as well as learning side by side **Web development.** 
  * Getting Started with ReactJS !!
 
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshumodi22" alt="profile vist counter" /> </p>  
 <a href="https://github.com/priyanshumodi22">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshumodi22&count_private=true&show_icons=true&theme=tokyonight" />
