@@ -26,6 +26,8 @@
     <a href="https://www.kali.org/"><img src="https://img.icons8.com/color/50/000000/kali-linux.png"/></a>
     <a href="https://www.arduino.cc/"><img src="https://img.icons8.com/color/50/000000/arduino.png"/>
     <a href="https://codepen.io/"><img src="https://img.icons8.com/color/50/000000/codepen.png"/>
+    <img src="https://img.icons8.com/color/48/000000/notion--v2.png"/>
+    <img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" width="46" height="45"/>
     
 </p>
 
