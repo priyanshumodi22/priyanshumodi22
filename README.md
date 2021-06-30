@@ -1,4 +1,5 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priyanshu Modi!](https://kunal-kushwaha.github.io) 
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu</h1>
 <h3 align="center">An undergraduate student, tech enthusiast and  learner</h3>
 
 ## <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -10,21 +11,23 @@
 - 🌱 &nbsp; Learning more about Web development, Systems Design and Artificial       Intelligence.
 - ✍️ &nbsp; Solving complex and challenging problems.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-- 💻 &nbsp; 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C);
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.kali.org/"><img src="https://img.icons8.com/color/50/000000/kali-linux.png"/></a>
+    <a href="https://www.arduino.cc/"><img src="https://img.icons8.com/color/50/000000/arduino.png"/>
+    <a href="https://codepen.io/"><img src="https://img.icons8.com/color/50/000000/codepen.png"/>
+    
+</p>
 
 
 ## What Am I Current Doing
@@ -32,8 +35,7 @@
  * Getting Started with ReactJS !!
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshumodi22" alt="profile vist counter" /> </p>  
-<a href="https://github.com/priyanshumodi22">
+
 <p align="center">
     <a href="https://github.com/riyanshumodi22/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priyanshu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -60,12 +62,16 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+## Connect with me:
+<p align="left">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/priyanshu-modi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Modi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/king_of_kings_pm/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-king_of_kings_pm-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:priyanshumodi20012gmai.com"><img alt="Email" src="https://img.shields.io/badge/Email-priyanshumodi2001@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<a href = "https://www.linkedin.com/in/priyanshu-modi"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/priyanshumodi22"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/king_of_kings_pm/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCy9kOrg8mTc0kegH0DcVlZg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<br>
+<img src="https://img.shields.io/badge/Gmail-priyanshumodi2001%40gmail.com-red"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshumodi22" alt="profile vist counter" /> </p>  
+<a href="https://github.com/priyanshumodi22">
 
 
