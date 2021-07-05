@@ -25,17 +25,15 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-
-<br/><br/>
+<br/>
 
 ## What Am I Current Doing
  * I am currently 🔭 polishing my skills in Data Structures & Algorithms and learning Web development side by side.
  * Getting Started with ReactJS !!
 
-<br/>
 
 ## 📊 My Github Stats
-  <br/>
+<p>
     <a href="https://github.com/priyanshumodi22/github-readme-stats"><img alt="Priyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshumodi22&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/priyanshumodi22/github-readme-stats"><img alt="Priyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumodi22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -44,8 +42,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priyanshu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-
+</p>
 <br/>
 <br/>
 
@@ -54,7 +51,7 @@
 <br/>
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+## Conect with me: 
 <p align="left">
 <a href="https://codepen.io/priyanshumodi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="priyanshumodi22" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/priyanshu-modi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-modi" height="30" width="40" /></a>
@@ -64,10 +61,7 @@
 <a href="https://leetcode.com/priyanshumodi22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshumodi22" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/priyanshumodi2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanmay777leon" height="30" width="40" /></a>
 <a href = "https://www.instagram.com/king_of_kings_pm/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="king_of_kings_pm" height="30" width="40" /></a>
-<a href = "https://www.youtube.com/channel/UCy9kOrg8mTc0kegH0DcVlZg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshumodi22" alt="profile vist counter" /> </p>  
 <a href="https://github.com/priyanshumodi22">
 
