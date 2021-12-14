@@ -28,8 +28,7 @@
 <br/>
 
 ## What Am I Current Doing
- * I am currently 🔭 polishing my skills in Data Structures & Algorithms and learning Web development side by side.
- * Getting Started with ReactJS !!
+ * I am currently 🔭 polishing my skills in Data Structures & Algorithms.
 
 
 ## 📊 My Github Stats
