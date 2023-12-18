@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px">, I'm Priyanshu</h1>
 <h3 align="center">An undergraduate student, tech enthusiast and  learner</h3>
 
 ## <h3> 👨🏻‍💻 &nbsp;About Me </h3>
