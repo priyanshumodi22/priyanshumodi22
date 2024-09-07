@@ -7,7 +7,6 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 🤔 &nbsp; Learning, exploring new technologies and quick hacks.
-- 🎓 &nbsp; Persuing my Bachelors in Computer Science & Engineering.
 - 👨‍💻 &nbsp; I always update myself with new Tech coming up.
 - 📫 How to reach me **priyanshumodi2001@gmail.com**
 <br/><br/>
@@ -24,7 +23,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
 <br/>
 
-## What Am I Current Doing
+## What Am I Currently Doing
  * Systems Engineer @TCS
 
 
@@ -42,10 +41,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/priyanshumodi22/github-readme-activity-graph"><img alt="Priyanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanshumodi22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Conect with me: 
 <p align="left">
