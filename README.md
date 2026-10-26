@@ -46,7 +46,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/priyanshu-modi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-modi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/priyanshumodi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanshumodi" height="30" width="40" /></a>
-<a href = "https://www.instagram.com/king_of_kings_pm/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="king_of_kings_pm" height="30" width="40" /></a>
+<a href = "https://www.instagram.com/itspriyanshu_22/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="king_of_kings_pm" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshumodi22" alt="profile vist counter" /> </p>  
 <a href="https://github.com/priyanshumodi22">
